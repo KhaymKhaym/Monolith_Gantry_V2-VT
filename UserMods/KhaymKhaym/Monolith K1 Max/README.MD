@@ -3,7 +3,7 @@ ________________________________
 
 
 Mod was produced by KhaymKhaym and BootyCallJones 
-Based off the Monolith Gantry by CloakedWayned
+Based off the Monolith Gantry by CloakedWayne
 
 Assembly Instructions are inside of the CAD file. (reference it ya turd)
 
